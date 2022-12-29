@@ -7,3 +7,7 @@
 project = "Redirect Project"
 copyright = "2022, Tim 'mithro' Ansell"
 author = "Tim 'mithro' Ansell"
+
+# This is the file name suffix for generated HTML files.
+# The default is ".html".
+html_file_suffix = ".disabled"

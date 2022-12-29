@@ -12,3 +12,4 @@ Redirects currently in use;
 | `gf180bcdlite.rtfd.io`  | `gf180bcdlite-pdk.rtfd.io` |
 | `sky130.rtfd.io`        | `skywater-pdk.rtfd.io`     |
 | `sky90fd.rtfd.io`       | `sky90fd-pdk.rtfd.io`      |
+| `symbiflow.rtfd.io`     | `f4pga.rtfd.io`            |
