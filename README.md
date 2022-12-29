@@ -4,4 +4,11 @@ See https://docs.readthedocs.io/en/stable/user-defined-redirects.html#migrating-
 
 Redirects currently in use;
 
- * `openlane-docs.rtfd.io` -> `openlane.rtfd.io`.
+| Source                  | Destination                |
+| ----------------------- | -------------------------- |
+| `openlane-docs.rtfd.io` | `openlane.rtfd.io`         |
+| `gf180mcu.rtfd.io`      | `gf180mcu-pdk.rtfd.io`     |
+| `gf180ic.rtfd.io`       | `gf180ic-pdk.rtfd.io`      |
+| `gf180bcdlite.rtfd.io`  | `gf180bcdlite-pdk.rtfd.io` |
+| `sky130.rtfd.io`        | `skywater-pdk.rtfd.io`     |
+| `sky90fd.rtfd.io`       | `sky90fd-pdk.rtfd.io`      |
